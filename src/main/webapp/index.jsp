@@ -128,7 +128,7 @@
       <div class="course-icon"><i class="fab fa-python"></i></div>
       <div class="course-title">Python Full Stack Development</div>
       <div class="course-desc">
-        Learn Python, Django, REST APIs, React, and advanced deployment strategies for real-world projects.
+        Learn Python, Django, REST APIs, React, and advanced deployment strategies to real-world projects.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
